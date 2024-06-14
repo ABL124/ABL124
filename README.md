@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about everything related to IT infr
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C, C++, YAML, JSON, R
+- **Languages:** PowerShell, C, C++, YAML, JSON, R
 - **Databases:** MySQL and Microsoft SQL
 - **Tools:** Git, Docker, Kubernetes
 - **Cloud Services:** Azure and AWS
