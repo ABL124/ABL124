@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello, I'm Alec Lewis!
 
-<!--
-**ABL124/ABL124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about everything related to IT infrastrucre.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- **💻 Occupation:** Senior Systems Engineer at Florida Polytechnic University
+- **🎓 Education:** Bachalors in Business Analytics from Florida Polytechnic University
+- **🌱 Currently Learning:** Kubernetes, Terraform, and Azure Stack HCI
+- **📫 How to Reach Me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alec-bradley-lewis/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- **Languages:** C, C++, YAML, JSON, R
+- **Databases:** MySQL and Microsoft SQL
+- **Tools:** Git, Docker, Kubernetes
+- **Cloud Services:** Azure and AWS
+
+Thank you for visiting my GitHub profile. Have a great day! 😄
