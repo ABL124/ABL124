@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alec Lewis!
 
-Welcome to my GitHub profile! I'm passionate about everything related to IT infrastrucre.
+Welcome to my GitHub profile! I'm passionate about everything related to IT infrastructure.
 ## 🚀 About Me
 
 - **💻 Occupation:** Senior Systems Engineer at Florida Polytechnic University
